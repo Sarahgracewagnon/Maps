@@ -168,7 +168,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "URL": /places/dupont-circle.htm",
+        "URL": "/places/dupont-circle.htm",
         "Image": "/common/uploads/cropped_image/primary/8C3F94E8-E1E1-4013-DF8AD29C71804915.jpg?width=1600&quality=90&mode=crop",
         "Description": "Located at the intersection of Massachusetts, Connecticut, and New Hampshire Avenues in Northwest Washington, D.C., Dupont Circle has served as the anchor of a neighborhood of diplomats, government officials, war commemorations, and the LGBTQ community for over 200 years. "
       },
@@ -284,7 +284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name ": "Fort Dupont",
+        "Name ": "",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle",
@@ -300,3 +300,302 @@
       "id": 14
     },
     {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Image": "",
+        "URL": "",
+        "Description": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03660430615875,
+          38.89512470246294
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Image": "",
+        "URL": "",
+        "Description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03743619173812,
+          38.89527009315944
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Image": "",
+        "URL": "",
+        "Description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03741828013084,
+          38.89483462563496
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Image": "",
+        "URL": "",
+        "Description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0371138932916,
+          38.89871068815762
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Description": "",
+        "Image": "",
+        "URL": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03668812427956,
+          38.8988186304004
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Description": "",
+        "Image": "",
+        "URL": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03628815944987,
+          38.89885126406887
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Image": "",
+        "URL": "",
+        "Description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03771289801347,
+          38.90002023861442
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "URL": "",
+        "Image": "",
+        "Description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03610081218768,
+          38.900001781804576
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "URL": "",
+        "Image": "",
+        "Description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04346434120275,
+          38.90966996446073
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Image": "",
+        "URL": "",
+        "Description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.05161202669208,
+          38.92145440522495
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Image": "",
+        "URL": "",
+        "Description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -76.98909059622899,
+          38.93090509255467
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "URL": "",
+        "Image": "",
+        "Description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03078347981918,
+          38.90194099180516
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "URL": "",
+        "Image": "",
+        "Description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03809374169228,
+          38.88944262254
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "URL": "",
+        "Image": "",
+        "Description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.02307856270588,
+          38.889636841810955
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -76.94970616399036,
+          38.87744525180594
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    }
+  ]
+}
