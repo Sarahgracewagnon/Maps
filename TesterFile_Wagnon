@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "1979 Marhc",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/1ABEAD2F-BCC0-105C-7635DD45D4FDCB56.jpg?width=1600&quality=90&mode=crop",
+        "URL": "https://www.nps.gov/places/1979-gay-rights-march.htm",
+        "Description": "On October 14, 1979, the first national march for lesbian and gay rights happened here in Washington, DC. Around 100,000 gay and lesbian Americans and their allies descended on the capital city from all across the United States to demand their voices be heard. "
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03656634683118,
+          38.8951115180985
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    }
+  ]
+}
